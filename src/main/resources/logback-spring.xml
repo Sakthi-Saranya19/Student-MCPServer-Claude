@@ -1,0 +1,4 @@
+<configuration>
+    <!-- Disable all console output -->
+    <root level="OFF"/>
+</configuration>
